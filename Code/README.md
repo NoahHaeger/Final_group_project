@@ -1,20 +1,7 @@
-#code
+# these are the two notebooks that we have for our project.
 
-# notebooks
+# the first one 001_scraping the the only scraping of the website that we have
 
-python jupiter notebooks (.ipynb). Files should be prefixed with the order they should run.
+# next, our main file is the Group_project final where we merged our data and tried to make assumptions about our topic
 
-00_file1.ipynb
-01_file1.ipynb
-02_file1.ipynb
-
-# script
-
-pyhton scripts (.py) Files should be prefixed with the order they should run
-
-00_file1.ipynb
-01_file1.ipynb
-02_file1.ipynb
-
-Source data:
-https://www.kaggle.com/datasets/nishaanamin/march-madness-data
+# I would start with 001 than move to the project final

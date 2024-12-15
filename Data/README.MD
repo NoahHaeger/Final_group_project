@@ -1,11 +1,3 @@
-# data_folder
+# these are the 4 data sets that we uploaded within our notebook
 
-# folders
-
-### raw
-
-orignal, unmodified data, scraping etx
-
-### final
-
-data after all cleaning processing and analyzing
+# we later combined three of the 4 csv files into one large file excluding the duke file

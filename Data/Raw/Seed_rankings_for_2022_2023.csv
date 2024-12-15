@@ -1,0 +1,137 @@
+YEAR,School Name,SEED,ROUND,POWER RATING,POWER RATING RANK,Key
+2023,Houston,1,16,93.2,13,Houston_23
+2023,Alabama,1,16,92.6,16,Alabama_23
+2023,Kansas,1,32,89.6,49,Kansas_23
+2023,Purdue,1,64,89.5,50,Purdue_23
+2023,Texas,2,8,90.1,43,Texas_23
+2023,Arizona,2,64,89,59,Arizona_23
+2023,UCLA,2,16,88.3,78,UCLA_23
+2023,Marquette,2,32,87.6,92,Marquette_23
+2023,Gonzaga,3,8,89.9,46,Gonzaga_23
+2023,Baylor,3,32,87.1,104,Baylor_23
+2023,Kansas St.,3,8,84.5,180,Kansas_St._23
+2023,Xavier,3,16,84.4,186,Xavier_23
+2023,Connecticut,4,1,89.2,57,Connecticut_23
+2023,Tennessee,4,16,86.9,109,Tennessee_23
+2023,Indiana,4,32,85.8,143,Indiana_23
+2023,Virginia,4,64,83.8,205,Virginia_23
+2023,Duke,5,32,87.1,104,Duke_23
+2023,San Diego St.,5,2,86,136,San_Diego_St._23
+2023,Saint Mary's,5,32,85.9,140,Saint_Mary's_23
+2023,Miami FL,5,4,83.6,210,Miami_FL_23
+2023,Creighton,6,8,87.6,92,Creighton_23
+2023,Kentucky,6,32,86,136,Kentucky_23
+2023,TCU,6,32,85.4,153,TCU_23
+2023,Iowa St.,6,64,84.5,180,Iowa_St._23
+2023,Texas A&M,7,64,85.1,158,Texas_A&M_23
+2023,Michigan St.,7,16,83.8,205,Michigan_St._23
+2023,Northwestern,7,32,82.2,263,Northwestern_23
+2023,Missouri,7,32,81.4,291,Missouri_23
+2023,Arkansas,8,16,85.1,158,Arkansas_23
+2023,Memphis,8,64,84.9,164,Memphis_23
+2023,Maryland,8,32,84.5,180,Maryland_23
+2023,Iowa,8,64,84.4,186,Iowa_23
+2023,Auburn,9,32,84.9,164,Auburn_23
+2023,Illinois,9,64,84.5,180,Illinois_23
+2023,West Virginia,9,64,84.2,194,West_Virginia_23
+2023,Florida Atlantic,9,4,82.6,246,Florida_Atlantic_23
+2023,Utah St.,10,64,83.5,214,Utah_St._23
+2023,USC,10,64,83,228,USC_23
+2023,Penn St.,10,32,82.8,240,Penn_St._23
+2023,Boise St.,10,64,82.6,246,Boise_St._23
+2023,Providence,11,64,82.8,240,Providence_23
+2023,Mississippi St.,11,68,81.8,272,Mississippi_St._23
+2023,North Carolina St.,11,64,81.4,291,North_Carolina_St._23
+2023,Arizona St.,11,64,80.3,318,Arizona_St._23
+2023,Pittsburgh,11,32,79.7,332,Pittsburgh_23
+2023,Nevada,11,68,79.6,335,Nevada_23
+2023,VCU,12,64,81.7,278,VCU_23
+2023,Drake,12,64,81.2,302,Drake_23
+2023,College of Charleston,12,64,79.8,329,College_of_Charleston_23
+2023,Oral Roberts,12,64,79.2,343,Oral_Roberts_23
+2023,Iona,13,64,79.6,335,Iona_23
+2023,Kent St.,13,64,79.4,340,Kent_St._23
+2023,Furman,13,32,78.2,358,Furman_23
+2023,Louisiana Lafayette,13,64,76.3,386,Louisiana_Lafayette_23
+2023,Grand Canyon,14,64,75.9,394,Grand_Canyon_23
+2023,UC Santa Barbara,14,64,75.5,400,UC_Santa_Barbara_23
+2023,Montana St.,14,64,75.3,404,Montana_St._23
+2023,Kennesaw St.,14,64,73.3,422,Kennesaw_St._23
+2023,Vermont,15,64,76.3,386,Vermont_23
+2023,Colgate,15,64,76.2,389,Colgate_23
+2023,Princeton,15,16,75.4,403,Princeton_23
+2023,UNC Asheville,15,64,73,427,UNC_Asheville_23
+2023,Northern Kentucky,16,64,72.9,428,Northern_Kentucky_23
+2023,Texas A&M Corpus Chris,16,64,69.9,455,Texas_A&M_Corpus_Chris_23
+2023,Howard,16,64,69.3,459,Howard_23
+2023,Southeast Missouri St.,16,68,67.7,468,Southeast_Missouri_St._23
+2023,Texas Southern,16,68,66.6,473,Texas_Southern_23
+2023,Fairleigh Dickinson,16,32,64.4,476,Fairleigh_Dickinson_23
+2022,Gonzaga,1,16,96.5,1,Gonzaga_22
+2022,Kansas,1,1,91.3,26,Kansas_22
+2022,Arizona,1,16,90.9,34,Arizona_22
+2022,Houston,1,8,88.7,69,Houston_22
+2022,Baylor,1,32,87.7,89,Baylor_22
+2022,Kentucky,2,64,91.2,29,Kentucky_22
+2022,Villanova,2,4,90.2,42,Villanova_22
+2022,Auburn,2,32,89.5,50,Auburn_22
+2022,Duke,2,4,89.3,54,Duke_22
+2022,Tennessee,3,32,88.9,65,Tennessee_22
+2022,Texas Tech,3,16,88.7,69,Texas_Tech_22
+2022,Wisconsin,3,32,84.7,172,Wisconsin_22
+2022,UCLA,4,16,89.8,47,UCLA_22
+2022,Purdue,4,16,89.1,58,Purdue_22
+2022,Arkansas,4,8,86.8,111,Arkansas_22
+2022,Illinois,4,32,86.8,111,Illinois_22
+2022,Providence,4,16,82.7,244,Providence_22
+2022,Iowa,5,64,89,59,Iowa_22
+2022,Connecticut,5,64,86.4,125,Connecticut_22
+2022,Saint Mary's,5,32,84.3,193,Saint_Mary's_22
+2022,Texas,6,32,86.3,129,Texas_22
+2022,LSU,6,64,85.7,146,LSU_22
+2022,Alabama,6,64,85.2,157,Alabama_22
+2022,Colorado St.,6,64,81.7,278,Colorado_St._22
+2022,Ohio St.,7,32,84.2,194,Ohio_St._22
+2022,Michigan St.,7,32,83.5,214,Michigan_St._22
+2022,USC,7,64,83,228,USC_22
+2022,Murray St.,7,32,81.3,294,Murray_St._22
+2022,North Carolina,8,2,84,199,North_Carolina_22
+2022,San Diego St.,8,64,83.5,214,San_Diego_St._22
+2022,Seton Hall,8,64,82.6,246,Seton_Hall_22
+2022,Boise St.,8,64,82.5,253,Boise_St._22
+2022,Memphis,9,32,84.9,164,Memphis_22
+2022,Marquette,9,64,81.9,267,Marquette_22
+2022,TCU,9,32,81.9,267,TCU_22
+2022,Creighton,9,32,81.5,288,Creighton_22
+2022,Loyola Chicago,10,64,83.7,208,Loyola_Chicago_22
+2022,Davidson,10,64,81.8,272,Davidson_22
+2022,San Francisco,10,64,81.8,272,San_Francisco_22
+2022,Miami FL,10,8,81.1,308,Miami_FL_22
+2022,Michigan,11,16,84.7,172,Michigan_22
+2022,Virginia Tech,11,64,84.7,172,Virginia_Tech_22
+2022,Notre Dame,11,32,81.6,285,Notre_Dame_22
+2022,Rutgers,11,68,81.1,308,Rutgers_22
+2022,Iowa St.,11,16,80.6,317,Iowa_St._22
+2022,Indiana,12,64,83,228,Indiana_22
+2022,UAB,12,64,81.2,302,UAB_22
+2022,Richmond,12,32,79.9,326,Richmond_22
+2022,Wyoming,12,68,78.5,351,Wyoming_22
+2022,New Mexico St.,12,32,77.7,368,New_Mexico_St._22
+2022,Vermont,13,64,80.3,318,Vermont_22
+2022,South Dakota St.,13,64,79.7,332,South_Dakota_St._22
+2022,Chattanooga,13,64,78.7,348,Chattanooga_22
+2022,Akron,13,64,76.7,381,Akron_22
+2022,Colgate,14,64,76.4,384,Colgate_22
+2022,Yale,14,64,74.7,410,Yale_22
+2022,Montana St.,14,64,74.3,412,Montana_St._22
+2022,Longwood,14,64,73.4,421,Longwood_22
+2022,Saint Peter's,15,8,74.2,415,Saint_Peter's_22
+2022,Delaware,15,64,73.6,418,Delaware_22
+2022,Jacksonville St.,15,64,73.2,426,Jacksonville_St._22
+2022,Cal St. Fullerton,15,64,71.8,438,Cal_St._Fullerton_22
+2022,Georgia St.,16,64,73.5,419,Georgia_St._22
+2022,Wright St.,16,64,73.5,419,Wright_St._22
+2022,Bryant,16,68,71.6,442,Bryant_22
+2022,Norfolk St.,16,64,71.4,443,Norfolk_St._22
+2022,Texas Southern,16,64,70.4,451,Texas_Southern_22
+2022,Texas A&M Corpus Chris,16,68,67.3,470,Texas_A&M_Corpus_Chris_22
